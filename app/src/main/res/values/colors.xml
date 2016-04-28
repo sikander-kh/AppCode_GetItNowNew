@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B0B0B0</color>
+    <color name="colorPrimaryDark">#F5F5F5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toolBarBackground">#F5F5F5</color>
+
+    <!-- LifeStyle-->
+    <color name="childListColor1">#B0B0B0</color>
+    <color name="childListColor2">#7F7F7F</color>
+    <color name="childListColor3">#5F5F5F</color>
+
+    <!-- Entertainment-->
+    <color name="childListColor4">#F8CF8C</color>
+    <color name="childListColor5">#EEA630</color>
+
+    <!-- Others-->
+    <color name="childListColor6">#8EB5E2</color>
+    <color name="childListColor7">#4A90E2</color>
+    <color name="childListColor8">#2E7FDD</color>
+
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+</resources>
