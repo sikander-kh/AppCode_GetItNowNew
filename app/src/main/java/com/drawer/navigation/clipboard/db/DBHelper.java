@@ -50,9 +50,9 @@ public class DBHelper extends OrmLiteSqliteOpenHelper {
     }
 
     @Override
-    public void onUpgrade(SQLiteDatabase arg0, ConnectionSource arg1, int arg2, int arg3) {
-        // TODO Auto-generated method stub
-
+    public void onUpgrade(SQLiteDatabase arg0, ConnectionSource arg1, int arg2, int arg3)
+    {
+          //TODO
     }
 
     @Override
